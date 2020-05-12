@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+   
+}
+
 body{
     background-image:url('https://i.pinimg.com/236x/78/d1/68/78d168d1df08927c708bb3dac9a51a32--red-velvet-cheesecake-cupcakes-red-velvet-mini-cheesecakes.jpg');
     background-size: auto 100vh;
@@ -30,4 +36,4 @@ body{
   }
   .site-subtitle{
     font-style: italic
-  
+   
